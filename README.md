@@ -2,7 +2,7 @@
 
 ## Introduction to Advanced Node and Express Challenges
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-advancednode)](https://repl.it/github/freeCodeCamp/boilerplate-advancednode)
+[![Run on Repl.it](https://repl.it/badge/github/juangm/boilerplate-advancednode)](https://repl.it/github/juangm/boilerplate-advancednode)
 
 We will continue on the path of exploring [ExpressJS](http://expressjs.com/) functionality including working with middleware packages in our Express Application.
 
